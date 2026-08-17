@@ -1,5 +1,24 @@
-<!-- PDF Image Preview Wrapper -->
-<div align="center">
-<img src="https://github.com/mahmudulhasantechnology-cmyk/Kmeans-Cluster/blob/Sub-branch/Sub.pdf" alt="Preview of Sub.pdf" width="650" style="max-width:100%; border: 1px solid #d0d7de; border-radius: 6px; box-shadow: 0 3px 10px rgba(0,0,0,0.1);">
-</a>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kmeans Cluster Visualization</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="container">
+        <header class="header">
+            <h1>Kmeans Cluster Analysis</h1>
+            <p>Visual presentation of the final cluster dataset</p>
+        </header>
+
+        <section class="card">
+            <!-- Replace Sub.png with your actual converted image path -->
+            <img src="https://github.com/mahmudulhasantechnology-cmyk/Kmeans-Cluster/blob/Sub-branch/Sub.pdf" alt="Kmeans Cluster Result Diagram" class="responsive-img">
+        </section>
+    </main>
+
+</body>
+</html>
