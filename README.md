@@ -16,7 +16,7 @@
 
         <section class="card">
             <!-- Replace Sub.png with your actual converted image path -->
-            <img src="https://github.com/mahmudulhasantechnology-cmyk/Kmeans-Cluster/blob/Sub-branch/Sub.pdf" alt="Kmeans Cluster Result Diagram" class="responsive-img">
+            <img src="https://github.com/mahmudulhasantechnology-cmyk/Kmeans-Cluster/blob/Sub-branch/Solution.jpg" alt="Kmeans Cluster Result Diagram" class="responsive-img">
         </section>
     </main>
 
